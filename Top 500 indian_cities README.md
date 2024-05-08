@@ -4,8 +4,8 @@
 The project utilizes the Top-500-Indian-Cities dataset, focusing on cities with populations exceeding one lakh, providing data on the number of graduates and literacy rate total in each city etc. By leveraging this dataset, the project aims to explore and visualize the current status of the top 500 cities in India, shedding light on their demographic trends and educational profiles. Through this analysis, the project seeks to identify emerging cities poised for future growth and development, offering insights into the evolving landscape of urban centers in India.
 
 ## Overview
-###### Total Entries: 493 
-###### Columns: 17 
+###### Total Entries: 493 entries
+###### Columns: 17 columns
 
 
 #### columns
